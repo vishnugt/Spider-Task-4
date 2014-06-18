@@ -1,0 +1,23 @@
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\bin\Debug\Slave App.exe
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\bin\Debug\Slave App.pdb
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\bin\Debug\resources.pri
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\bin\Debug\AppxManifest.xml
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\bin\Debug\Slave App.build.appxrecipe
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\App.g.i.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\App.g.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\MainPage.g.i.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\MainPage.g.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\App.xaml
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\MainPage.xaml
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\Slave App.exe
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\Slave App.pdb
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\priconfig.xml
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\layout.resfiles
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\resources.resfiles
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\pri.resfiles
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\LanguageQualifiers.txt
+C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Slave App\Slave App\obj\Debug\ProjectArchitectures.txt

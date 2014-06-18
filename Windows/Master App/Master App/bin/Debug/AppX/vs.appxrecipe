@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISHNU</Machine>
+    <WindowsUser>Vishnu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7FCF92B506995DC92E08307C08C92B33B671C9C1F11182C53C16CEF97A704F9A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>44d3ab11-5853-4cb5-a2f3-4832b28ad16b_1.0.0.0_neutral__9h4q7qvwr1r6y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>44d3ab11-5853-4cb5-a2f3-4832b28ad16b_9h4q7qvwr1r6y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>44d3ab11-5853-4cb5-a2f3-4832b28ad16b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Vishnu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-18T10:34:21.035</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\Master App.exe">
+      <PackagePath>Master App.exe</PackagePath>
+      <Modified>2014-06-18T14:03:10.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\Master App.pdb">
+      <PackagePath>Master App.pdb</PackagePath>
+      <Modified>2014-06-18T14:03:09.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-06-18T10:09:12.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-06-18T14:03:09.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Vishnu\Documents\Visual Studio 2012\Projects\Master App\Master App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-18T10:34:20.531</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
