@@ -1,1 +1,0 @@
-Place the spidertask4 app in the C:\wamp\www.
